@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Satellite/App.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/HomePageVM.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/HomePageVm.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/123.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/AuthorizationWindow.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/AutorizationWindow.xaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/ChangePasswordWindow.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/HomePageWindow.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/MainWindow.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/ObjectInformationWindow.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/ProfileWindow.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/RegistrationWindow.axaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/RegistrationWindow.xaml" value="Satellite/Satellite.csproj" />
+        <entry key="Satellite/Views/SelectedObjectWindow.axaml" value="Satellite/Satellite.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
