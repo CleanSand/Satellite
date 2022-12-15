@@ -11,7 +11,10 @@
         <vm:HomePageVM/>
     </Design.DataContext>
     <Grid ColumnDefinitions="50,*" RowDefinitions="50,*">
-        <TextBox Grid.Row="0" Grid.Column="1" Height="30" Width="150" ></TextBox>
+        <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox Grid.Row="0" Grid.Column="1" Height="30" Width="400" Text="{Binding Searchstring}"></TextBox>
+            <Button Margin="10 0 0 0" HorizontalAlignment="Right" VerticalAlignment="Center" Content="Поиск" Command="{Binding SubmitSearch}" CommandParameter="{Binding ElementName=ThisWindow}"/>
+        </StackPanel>
         <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Right" VerticalAlignment="Center">
             <Button Margin="0 0 10 0" HorizontalAlignment="Right" VerticalAlignment="Center" Content="Профиль" Command="{Binding OpenWindow}" CommandParameter="{Binding ElementName=ThisWindow}"/>
             <Button Margin="0 10 10 0" HorizontalAlignment="Right" VerticalAlignment="Center" Content="Избранное" Command="{Binding OpenWindow2}" CommandParameter="{Binding ElementName=ThisWindow}"/>

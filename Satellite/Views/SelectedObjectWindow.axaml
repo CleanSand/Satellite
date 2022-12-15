@@ -11,10 +11,6 @@
         <vm:SelectedObjectVM/>
     </Design.DataContext>
     <Grid ColumnDefinitions="50,*" RowDefinitions="50,*">
-        <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
-            <Button Margin="0 0 10 0" HorizontalAlignment="Right" VerticalAlignment="Center"  Grid.Row="0" Grid.Column="1" Content="Профиль" Command="{Binding OpenWindow}" CommandParameter="{Binding ElementName=ThisWindow}"/>
-        </StackPanel>
-        
         <ListBox Grid.Column="1" Grid.Row="1" Width="300" Height="300" Items="{Binding SelectedSolars}" SelectedItem="{Binding ObjectSolar}">
             <ListBox.ItemTemplate>
                 <DataTemplate>
@@ -29,7 +25,5 @@
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
-        
-        
     </Grid>
 </Window>
