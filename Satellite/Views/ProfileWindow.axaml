@@ -24,7 +24,7 @@
             Сменить пароль
         </Button>
 
-        <ListBox Grid.Row="1" Grid.Column="0" Margin="10" CornerRadius="10" Background="#fcf0c7" MaxHeight="200" MaxWidth="400">
+        <ListBox Grid.Row="1" Grid.Column="0" Margin="10" CornerRadius="10" Background="#fcf0c7" MaxHeight="200" MaxWidth="400" IsHitTestVisible="False">
             <Grid>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="Auto"/>
