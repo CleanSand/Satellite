@@ -34,6 +34,8 @@ C:\Users\Иван\.nuget\packages\jetbrains.annotations\10.3.0\lib\netstandard1.
 C:\Users\Иван\.nuget\packages\markdown.avalonia.tight\0.10.11\lib\netcoreapp2.0\Markdown.Avalonia.dll
 C:\Users\Иван\.nuget\packages\markdown.avalonia.syntaxhigh\0.10.11\lib\netcoreapp2.0\Markdown.Avalonia.SyntaxHigh.dll
 C:\Users\Иван\.nuget\packages\messagebox.avalonia\2.1.0\lib\netstandard2.0\MessageBox.Avalonia.dll
+C:\Users\Иван\.nuget\packages\messagepack.annotations\2.4.59\lib\netstandard2.0\MessagePack.Annotations.dll
+C:\Users\Иван\.nuget\packages\messagepack\2.4.59\lib\net6.0\MessagePack.dll
 C:\Users\Иван\.nuget\packages\microsoft.codeanalysis.csharp\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\Иван\.nuget\packages\microsoft.codeanalysis.csharp.scripting\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 C:\Users\Иван\.nuget\packages\microsoft.codeanalysis.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll
@@ -51,6 +53,7 @@ C:\Users\Иван\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.
 C:\Users\Иван\.nuget\packages\microsoft.extensions.logging\7.0.0\lib\net6.0\Microsoft.Extensions.Logging.dll
 C:\Users\Иван\.nuget\packages\microsoft.extensions.options\7.0.0\lib\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\Иван\.nuget\packages\microsoft.extensions.primitives\7.0.0\lib\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Иван\.nuget\packages\microsoft.net.stringtools\17.4.0\ref\netstandard2.0\Microsoft.NET.StringTools.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.11\ref\net6.0\Microsoft.VisualBasic.Core.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.11\ref\net6.0\Microsoft.VisualBasic.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.11\ref\net6.0\Microsoft.Win32.Primitives.dll

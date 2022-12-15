@@ -173,3 +173,6 @@ C:\Users\Иван\RiderProjects\Satellite\Satellite\bin\Debug\net6.0\Nito.AsyncE
 C:\Users\Иван\RiderProjects\Satellite\Satellite\bin\Debug\net6.0\Nito.Cancellation.dll
 C:\Users\Иван\RiderProjects\Satellite\Satellite\bin\Debug\net6.0\Nito.Collections.Deque.dll
 C:\Users\Иван\RiderProjects\Satellite\Satellite\bin\Debug\net6.0\Nito.Disposables.dll
+C:\Users\Иван\RiderProjects\Satellite\Satellite\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Иван\RiderProjects\Satellite\Satellite\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Иван\RiderProjects\Satellite\Satellite\bin\Debug\net6.0\Microsoft.NET.StringTools.dll

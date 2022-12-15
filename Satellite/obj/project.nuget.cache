@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "luvlZQlAMSO5xKZhOIKHvGrXGT8f1y9LUaFVnqYdv4sctELTtbSo3egzp6Kn8apvsM7P6m6+RPqhMJk6E07/4g==",
+  "dgSpecHash": "IfW2JkRsYuF1IE5hr42u0Euv5aUKITml5Zs37sZe20gdgWIClI5PmBByXk4bVi2Tpu6OHDrTdyWnSgfxXKiFcQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Иван\\RiderProjects\\Satellite\\Satellite\\Satellite.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,8 @@
     "C:\\Users\\Иван\\.nuget\\packages\\markdown.avalonia.syntaxhigh\\0.10.11\\markdown.avalonia.syntaxhigh.0.10.11.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\markdown.avalonia.tight\\0.10.11\\markdown.avalonia.tight.0.10.11.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\messagebox.avalonia\\2.1.0\\messagebox.avalonia.2.1.0.nupkg.sha512",
+    "C:\\Users\\Иван\\.nuget\\packages\\messagepack\\2.4.59\\messagepack.2.4.59.nupkg.sha512",
+    "C:\\Users\\Иван\\.nuget\\packages\\messagepack.annotations\\2.4.59\\messagepack.annotations.2.4.59.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.6\\microsoft.codeanalysis.analyzers.2.9.6.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.codeanalysis.common\\3.4.0\\microsoft.codeanalysis.common.3.4.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.4.0\\microsoft.codeanalysis.csharp.3.4.0.nupkg.sha512",
@@ -51,6 +53,7 @@
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Иван\\.nuget\\packages\\microsoft.net.stringtools\\17.4.0\\microsoft.net.stringtools.17.4.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
@@ -87,7 +90,7 @@
     "C:\\Users\\Иван\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
-    "C:\\Users\\Иван\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Иван\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
